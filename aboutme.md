@@ -1,12 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Why you'd want to go on a date with me
+subtitle: Hi, my name is Ricardo Castelhano.
 ---
 
-Hi, my name is Ricardo Castelhano.
-
-TL;DR:
+### TL;DR:
 - Senior Engineering Manager at SKY building the streaming apps Peacock, SkyShowtime, Showmax
 - Forever learner of Leadership
 - Seasoned Keynote Speaker
