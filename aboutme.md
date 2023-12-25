@@ -7,43 +7,31 @@ subtitle: Why you'd want to go on a date with me
 Hi, my name is Ricardo Castelhano.
 
 TL;DR:
-- Senior Engineering Manager at SKY building Peacock, SkyShowtime, Showmax
+- Senior Engineering Manager at SKY building the streaming apps Peacock, SkyShowtime, Showmax
 - Forever learner of Leadership
 - Seasoned Keynote Speaker
 - Former College Lecturer
 - Still daydreams about creative coding
 
 
-
-
-All of my professional career is connected to software development and teaching. 
-
-And it all started with Creative Coding. The fascination of all the cool animations, interactions, installations, games that people could create using a programming language.
-
-That took me to land a fulltime job as a Software Developer. It happened more than two decades ago.
-
-Currently I'm leading several teams building Peacock, SkyShowtime and Showmax applications for BigScreen TVs.
-
-
 ### My story
 
-It all began in the 80s, when my father brought home a Spectrum 48K. I still remember the sound of the games loading, after we press the command `load ""`.
+It all began in the 80s, when my father brought home a Spectrum 48K.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+~~~
+load ""
+~~~
 
+I still remember the sound. Some games took up to 20 minutes to load—the anticipation built while we waited, and the successful loading was never guaranteed.
 
+From computer games to creative code, it took more than 15 years to happen. I went to university to pursue a degree in mathematics. Only to discover that I would choose computer programming as my profession. To be honest, the curiosity of how games where made was ever there.
 
+I started playing with ActionScript, and the ease of creating interactions and small games struck me.
 
-Currently I’m working as Senior Engineer Manager in the Global Streaming Platform at Sky in Portugal. I’m responsible for the leadership, mentorship, engineering excellence and growth of several frontend development teams for Big Screen devices. We are building Peacock and SkyShowtime streaming services.
+Looking back into the memory lane, I landed a full-time Flash Developer job and a part-time gig as a trainer. After a while, I became acquainted with bigger stages when I started receiving regular invitations from Microsoft and Adobe to be a keynote speaker.
 
-As a seasoned keynote speaker, I have experience in national and international events organised by companies like Microsoft and Adobe. I never miss an opportunity to jump on stage and share some love.
+Professionaly, I kept going after bigger challenges. Ultimately, more than two decades after, I'm managing and leading development teams.
 
-I have been working to learn more about myself and how stress and anxiety impact me personally and professionally.
+It has been quite a ride, to be honest.
 
-I have Don Miguel Ruiz’s four agreements as my North Star:
-– Be Impeccable With Your Word;
-– Don’t Take Anything Personally;
-– Don’t Make Assumptions;
-– Always Do Your Best.
-
-Welcome to this space, where I will share my leadership insights and everything I know about stress and anxiety management. Feel free to contact me if I can be of service.
+I hope to share with you all some of my enthusiasm about Creative Coding.
