@@ -5,11 +5,12 @@ subtitle: Hi, my name is Ricardo Castelhano.
 ---
 
 ### TL;DR:
-- Senior Engineering Manager at SKY building the streaming apps Peacock, SkyShowtime, Showmax
-- Forever learner of Leadership
-- Seasoned Keynote Speaker
-- Former College Lecturer
-- Still daydreams about creative coding
+- Husband & father of two beautiful boys
+- A creative geek by nature *(still dreams in code)*
+- A leader by passion *(still studying about it)*
+- A former College lecturer
+- A seasoned Keynote Speaker
+- Senior Engineering Manager at SKY building the streaming apps Peacock (30M pay subs in the US), SkyShowtime (22 European countries), Showmax (40 African countries)
 
 
 ### My story
@@ -20,16 +21,20 @@ It all began in the 80s, when my father brought home a Spectrum 48K.
 load ""
 ~~~
 
-I still remember the sound. Some games took up to 20 minutes to load—the anticipation built while we waited, and the successful loading was never guaranteed.
+I still remember the command line to load games. Ohh and the so characteristic sound. Some games took up to 20 minutes to load. The anticipation skyrocketed while we waited. And it was not 100% guaranteed that the game would load successfully.
 
-From computer games to creative code, it took more than 15 years to happen. I went to university to pursue a degree in mathematics. Only to discover that I would choose computer programming as my profession. To be honest, the curiosity of how games where made was ever there.
+I went to university to pursue a degree in mathematics. Only to discover that I would choose computer programming as my profession. To be honest, the curiosity of how games where made was ever there.
 
-I started playing with ActionScript, and the ease of creating interactions and small games struck me.
+But the jump from computer games to creative coding took more than 15 years to happen. 
 
-Looking back into the memory lane, I landed a full-time Flash Developer job and a part-time gig as a trainer. After a while, I became acquainted with bigger stages when I started receiving regular invitations from Microsoft and Adobe to be a keynote speaker.
+I started playing with ActionScript, and the ease of creating interactions and small games struck me. Small games, physical interactions, and incredible installations were really simple to attain.
 
-Professionaly, I kept going after bigger challenges. Ultimately, more than two decades after, I'm managing and leading development teams.
+Looking back into the memory lane, it allowed me to land a full-time Flash Developer job and a part-time gig as an instructor. After a while, I became acquainted with bigger stages when I started receiving regular invitations from Microsoft and Adobe to be a keynote speaker.
+
+Professionally, I kept going after more significant challenges. That approach took me from a frontend developer to a backend developer to a team leader, a Manager, and a CTO.
+
+More than two decades later, I'm managing and leading development teams in the big "Streaming Wars"
 
 It has been quite a ride, to be honest.
 
-I hope to share with you all some of my enthusiasm about Creative Coding.
+In a full circle, I hope to share with you all some of my enthusiasm for creative coding.
