@@ -29,7 +29,7 @@ But the jump from computer games to creative coding took more than 15 years to h
 
 I started playing with ActionScript, and the ease of creating interactions and small games struck me. Small games, physical interactions, and incredible installations were really simple to attain.
 
-Looking back into the memory lane, it allowed me to land a full-time Flash Developer job and a part-time gig as an instructor. After a while, I became acquainted with bigger stages when I started receiving regular invitations from Microsoft and Adobe to be a keynote speaker.
+Looking back into the memory lane, it allowed me to land a full-time job as Flash Developer and a part-time gig as an instructor. After a while, I became acquainted with bigger stages when I started receiving regular invitations from Microsoft and Adobe to be a keynote speaker.
 
 Professionally, I kept going after more significant challenges. That approach took me from a frontend developer to a backend developer to a team leader, a Manager, and a CTO.
 
