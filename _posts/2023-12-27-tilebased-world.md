@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tile-Based World Creation
+title: Tile-Based Game Levels Creation
 subtitle: Create Game Levels with Tiles using JavaScript
 cover-img: /assets/img/tilebased-world-post/tilebased-world-cover.png
 thumbnail-img: /assets/img/tilebased-world-post/tilebased-world-thumb.png
