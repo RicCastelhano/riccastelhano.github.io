@@ -17,9 +17,10 @@ Two years before I was born, **Atari, Inc.** developed and published an arcade v
  
 My dad was a computer programmer back in the days when computers were big enough to fill up an entire living room. And some years after my birth, I do remember that my dad brought home our first computer - a magical *Sinclair ZX Spectrum 48K*. 
  
-I was a kid somewhere between the ages of 6 and 8. And it was magical to have access to a computer so small yet so "powerful" that allowed us to play all those great games (don't judge; in my kid's mind, it was magical indeed).
 
 ![Sinclair ZX Spectrum 48k](/assets/img/breakout-game-post/ZXSpectrum48k.jpg){: .mx-auto.d-block :}
+
+I was a kid somewhere between the ages of 6 and 8. And it was magical to have access to a computer so small yet so "powerful" that allowed us to play all those great games (don't judge; in my kid's mind, it was magical indeed).
 
 Since my dad's passing, I'm recalling more and more late memories.
 
