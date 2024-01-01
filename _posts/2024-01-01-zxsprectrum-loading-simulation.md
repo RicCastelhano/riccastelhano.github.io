@@ -2,9 +2,9 @@
 layout: post
 title: Sinclair ZX Spectrum 48k Loading Simulation
 subtitle: Create a Simulation of a Sinclair ZX Spectrum 48k computer loading the Jetpac game using JavaScript
-cover-img: .//assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
-thumbnail-img: .//assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-thumb.png
-share-img: .//assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
+cover-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
+thumbnail-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-thumb.png
+share-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
 tags: [gamedevelopment, retrogames, classics, arcade, javascript]
 author: Ricardo Castelhano
 ---
