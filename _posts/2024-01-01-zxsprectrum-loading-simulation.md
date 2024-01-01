@@ -2,9 +2,9 @@
 layout: post
 title: Sinclair ZX Spectrum 48k Loading Simulation
 subtitle: Create a Simulation of a Sinclair ZX Spectrum 48k computer loading the Jetpac game using JavaScript
-cover-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
-thumbnail-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-thumb.png
-share-img: /_posts/assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
+cover-img: /assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
+thumbnail-img: /assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-thumb.png
+share-img: /assets/zxspectrum-loading-sim-post/zxspectrum-load-sim-cover.png
 tags: [gamedevelopment, retrogames, classics, arcade, javascript]
 author: Ricardo Castelhano
 ---
@@ -13,14 +13,14 @@ I have been traveling the memory lane for quite some time. And after creating th
 
 And one game that I definitely want to replicate in JavaScript is [Jetpac](https://en.wikipedia.org/wiki/Jetpac) by [Ultimate Play The Game](https://en.wikipedia.org/wiki/Ultimate_Play_the_Game)
 
-![Jetpac CoverArt](.//assets/zxspectrum-loading-sim-post/Jetpac_Coverart.jpg){: .mx-auto.d-block :}
+![Jetpac CoverArt](/assets/zxspectrum-loading-sim-post/Jetpac_Coverart.jpg){: .mx-auto.d-block :}
 
 But in the meantime, I found the motivation from Lee Reilly to replicate the entire ZX Spectrum game loading experience.
 
 Loading a game in a ZX Spectrum is an experience all by itself.
 The game comes in an audio tape, as shown below.
 
-![Jetpac Tape](.//assets/zxspectrum-loading-sim-post/tape.jpeg){: .mx-auto.d-block :}
+![Jetpac Tape](/assets/zxspectrum-loading-sim-post/tape.jpeg){: .mx-auto.d-block :}
 
 We connected a tape recorder to the ZX Spectrum computer, typed the command prompt `load ""` and had to wait...and wait...and wait, we did.
 
@@ -37,29 +37,29 @@ I have split the tutorial into multiple steps, and to keep the code easy to foll
 #### Step 0 - Load the ZX Spectrum font file and the Jetpac Game Load Screen
 You can freely download and use the [ZX Spectrum Font Family](https://font.download/font/zx-spectrum-7) by Flavie Hammes.
 
-![Step 0](.//assets/zxspectrum-loading-sim-post/step0.png){: .mx-auto.d-block :}
+![Step 0](/assets/zxspectrum-loading-sim-post/step0.png){: .mx-auto.d-block :}
 
 #### Step 1 - Lead Signal Animation
 
 The *Lead Signal* has an animation between two colors filling the entire screen: "#007A87", "#720000"
 
-![Step 1](.//assets/zxspectrum-loading-sim-post/step1.gif){: .mx-auto.d-block :}
+![Step 1](/assets/zxspectrum-loading-sim-post/step1.gif){: .mx-auto.d-block :}
 
 #### Step 2 - Sync Signal Animation
 
 The screen will be divided into thirty horizontal bars, alternating the colors between "#007A87" and "#720000". The bars will be animated with a downward motion.
 
-![Step 2](.//assets/zxspectrum-loading-sim-post/step2.gif){: .mx-auto.d-block :}
+![Step 2](/assets/zxspectrum-loading-sim-post/step2.gif){: .mx-auto.d-block :}
 
 #### Step 3 - Bitstream Signal Animation
 
 The screen will be divided up into sixty horizontal bars with different heights (originally, it depended on the bitstream data), alternating the colors between "#665B00" and "#001459". Due to the diverse heights, the visual effect seems to be a faster downward motion.
 
-![Step 3](.//assets/zxspectrum-loading-sim-post/step3.gif){: .mx-auto.d-block :}
+![Step 3](/assets/zxspectrum-loading-sim-post/step3.gif){: .mx-auto.d-block :}
 
 #### Step 4 - Initial Text animation (simulation of writing the command prompt)
 
-![Step 4](.//assets/zxspectrum-loading-sim-post/step4.gif){: .mx-auto.d-block :}
+![Step 4](/assets/zxspectrum-loading-sim-post/step4.gif){: .mx-auto.d-block :}
 
 #### Step 5 - Game Image Loading Animation
 
@@ -71,7 +71,7 @@ Each third part is divided into seven smaller areas. We will render a line per e
 
 After a third is rendered, we jump to the following third until the entire image is drawn.
 
-![Step 5](.//assets/zxspectrum-loading-sim-post/step5.gif){: .mx-auto.d-block :}
+![Step 5](/assets/zxspectrum-loading-sim-post/step5.gif){: .mx-auto.d-block :}
 
 #### Step 6 - Render the White Game Area During Signals Animation
 
@@ -79,12 +79,12 @@ Throughout the entire loading sequence, the game area is white, waiting for the 
 
 In this step I just revisited step1, step2, and step3 to allow the correct screen rendering with that white area.
 
-![Step 6](.//assets/zxspectrum-loading-sim-post/step6.gif){: .mx-auto.d-block :}
+![Step 6](/assets/zxspectrum-loading-sim-post/step6.gif){: .mx-auto.d-block :}
 
 #### Final: Entire Simulation Assembled
 In the final step, I add logic to simulate the loading screen from the command prompt until the game throws the mythical "R Type loading error."
 
-![Step Final](.//assets/zxspectrum-loading-sim-post/step_final.gif){: .mx-auto.d-block :}
+![Step Final](/assets/zxspectrum-loading-sim-post/step_final.gif){: .mx-auto.d-block :}
 
 Here is the [Sinclair ZX Spectrum 48k Jetpac Game Loading Screen Simulation GitHub Repo](https://github.com/RicCastelhano/zx-spectrum-loading-simulation).
 
