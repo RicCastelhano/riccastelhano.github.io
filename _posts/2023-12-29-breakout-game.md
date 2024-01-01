@@ -2,9 +2,9 @@
 layout: post
 title: Breakout Game Tutorial
 subtitle: Create a Variation of the Classic Game Breakout using JavaScript
-cover-img: /assets/posts/breakout-game-post/breakout-game-cover.png
+cover-img: /assets/posts/breakout-game-post/Breakout-game-cover.png
 thumbnail-img: /assets/posts/breakout-game-post/breakout-game-thumb.png
-share-img: /assets/posts/breakout-game-post/breakout-game-cover.png
+share-img: /assets/posts/breakout-game-post/Breakout-game-cover.png
 tags: [gamedevelopment, retrogames, classics, arcade, javascript]
 author: Ricardo Castelhano
 ---
