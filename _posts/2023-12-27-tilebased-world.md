@@ -2,9 +2,9 @@
 layout: post
 title: Tile-Based Game Levels Creation
 subtitle: Create Game Levels with Tiles using JavaScript
-cover-img: .//assets/tilebased-world-post/tilebased-world-cover.png
-thumbnail-img: .//assets/tilebased-world-post/tilebased-world-thumb.png
-share-img: .//assets/tilebased-world-post/tilebased-world-cover.png
+cover-img: ./_posts/assets/tilebased-world-post/tilebased-world-cover.png
+thumbnail-img: ./_posts/assets/tilebased-world-post/tilebased-world-thumb.png
+share-img: ./_posts/assets/tilebased-world-post/tilebased-world-cover.png
 tags: [gamedevelopment, web, javascript]
 author: Ricardo Castelhano
 ---
