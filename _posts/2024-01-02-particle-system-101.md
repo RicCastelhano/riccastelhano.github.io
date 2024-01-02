@@ -9,8 +9,6 @@ tags: [gamedevelopment, creativeprogramming, particlesystems, javascript]
 author: Ricardo Castelhano
 ---
 
-![Basic Particle System](/assets/posts/particle-system-101/particle-system-cover.png){: .mx-auto.d-block :}
-
 A particle system is a technique in computer graphics used to simulate certain fuzzy phenomena, which are otherwise difficult to reproduce with conventional rendering techniques. Examples of such phenomena include fire, smoke, sparks, or generally any fluid-like entities. 
 
 But, how does a particle systems work?
@@ -42,6 +40,8 @@ But, how does a particle systems work?
 **Interactive Art:** Particle systems are used in installations where visual effects respond to user interactions or environmental changes.
 
 I will leave you with a basic particle system, code fully commented, for you to twick around and see if you can figure out something cool.
+
+![Basic Particle System](/assets/posts/particle-system-101/particle-system-cover.png){: .mx-auto.d-block :}
 
 Here is the [Particle System 101 GitHub Repo](https://github.com/RicCastelhano/particle-systems-101).
 
