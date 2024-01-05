@@ -31,7 +31,7 @@ Then the idea is to have a "render window" of the area that we want to present, 
 
 >`drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight);`
 
-That method will need the source image, the source position (x,y) and the source dimensions (width, height). This is the `render window`, the area that we will want to display. The following parameters are to declare the actual position on screen that we want it to be render at, and with which dimensions.
+That method will need the source image, the source position (x,y) and the source dimensions (width, height). This is the "render window", the area that we will want to display. The following parameters are to declare the actual position on screen that we want it to be render at, and with which dimensions.
 So, that's the `s` and the `d` from the parameters, `source` and `destination` precisely.
 
 Inside the code, you will find comments explaining how to keep track of the direction and actions inside the spritesheet, but tl:dr, we use the sprite dimensions:
