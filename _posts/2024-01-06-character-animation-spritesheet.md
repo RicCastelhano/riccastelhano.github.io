@@ -90,6 +90,10 @@ y = 2 * sprite.height
 
 Please give it a try, and if you have any questions, I'm here to help.
 
+The final result of this exercise should be similar to this:
+
+![final result](/assets/posts/character-animation-spritesheet/final.gif){: .mx-auto.d-block :}
+
 Here is the [Character Animation using Spritesheets GitHup repo](https://github.com/RicCastelhano/character_animation_using_spritesheet).
 
 
