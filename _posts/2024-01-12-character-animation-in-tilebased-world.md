@@ -2,9 +2,9 @@
 layout: post
 title: NPC Animation in a TileBased World
 subtitle: Insert some Non-Player Characters in a TileBased World using JavaScript
-cover-img: /assets/posts/npc-tolebased-world/npc-tolebased-world.png
-thumbnail-img: /assets/posts/npc-tolebased-world/npc-tolebased-world.png
-share-img: /assets/posts/npc-tolebased-world/npc-tolebased-world.png
+cover-img: /assets/posts/npc-tilebased-world/npc-tilebased-world.png
+thumbnail-img: /assets/posts/npc-tilebased-world/npc-tilebased-world.png
+share-img: /assets/posts/npc-tilebased-world/npc-tilebased-world.png
 tags: [gamedevelopment, creativeprogramming, javascript]
 author: Ricardo Castelhano
 ---
