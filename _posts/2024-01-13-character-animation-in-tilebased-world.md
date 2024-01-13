@@ -143,7 +143,7 @@ The final result of this exercise should look similar to this:
 
 ![final result](/assets/posts/npc-tilebased-world/final.gif){: .mx-auto.d-block :}
 
-Here is the [NPC Animation in a TileBased World GitHup repo]().
+Here is the [NPC Animation in a TileBased World GitHup repo](https://github.com/RicCastelhano/NPC-Animation-in-a-Tile-Based-World-Tutorial).
 
 
 Enjoy,
