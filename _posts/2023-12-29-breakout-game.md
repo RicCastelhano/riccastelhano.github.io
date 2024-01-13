@@ -34,7 +34,78 @@ In a good hommage to those days, I created a short tutorial on how to build a si
 
 ![BreakoutJS](/assets/posts/breakout-game-post/breakout-game-thumb.png){: .mx-auto.d-block :}
 
-If you go through the code (and all the comments), you will know how the *Breakout/Arkanoid* game works by the end.
+
+We will go through how a game loop works:
+
+```js
+// Game Loop
+function animate(){
+    window.requestAnimationFrame(animate);
+    (...)
+}
+animate();
+```
+
+How to control the `paddle` using the keyboard:
+
+```js
+
+function keyboardController(){
+    
+    paddle.velocity = 0;
+
+    if(keys.a.pressed) paddle.velocity = -1 * paddleSpeed;
+    else if(keys.d.pressed) paddle.velocity = paddleSpeed;
+}
+
+window.addEventListener('keydown', (event) => {
+    switch (event.key) {
+      case 'd':
+        keys.d.pressed = true;
+        break
+      case 'a':
+        keys.a.pressed = true;
+        break
+    }
+});
+
+window.addEventListener('keyup', (event) => {
+    switch (event.key) {
+        case 'd':
+          keys.d.pressed = false;
+          break
+        case 'a':
+          keys.a.pressed = false;
+          break
+      }
+});
+```
+
+And how to detect collisions between our `ball` and the game area:
+
+```js
+function wallCollisionDetection(){
+    (...)
+}
+```
+
+Between the `ball` and each `brick`:
+
+```js
+function brickCollisionDetection(){
+    (...)
+}
+```
+
+And between the `ball` and our `paddle`:
+
+```js
+function paddleCollisionDetection(){
+    (...)
+}
+```
+
+I left the code fully commented with explanations of what the code is doing and why. so, if you go through the code (and all the comments), you will know how the *Breakout/Arkanoid* game works by the end of it.
 
 Here is the [Breakout Game Tutorial GitHub Repo](https://github.com/RicCastelhano/breakout-game-tutorial).
 
