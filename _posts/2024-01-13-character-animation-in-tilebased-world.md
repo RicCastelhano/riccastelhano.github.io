@@ -91,7 +91,7 @@ const levelMap = [
 ];
 ```
 
-Remember that a value in that matrix different from `0` means it is some "physical" tile rendered in our game level. So, in order for our NPCs to move, first they need to be **over** some floor:
+Remember that a value, in that matrix, different from `0` means it is some "physical" tile rendered in our game level. So, in order for our NPCs to move, first they need to be **over** some floor, and to have a `walkable` tile in front of it.
 
 Considering that if we know the (x,y) position of the NPC, we can determine in each tile the NPC is in. So, we will create three different variables to have the current tile, the future tile, and the "floor" tile references:
 
@@ -104,12 +104,14 @@ let tempY = Math.floor(this.hitArea.y / tileSize);
 We will have three possible moments where our NPC would be colliding or falling from a platform. So, first we check if the current or the next tile's "floor" exists or not
 
 ```js
+// will the NPC fall ?
 levelMap[tempY + 1][tempX1] == 0 ||
 levelMap[tempY + 1][tempX2] == 0 ||
 ```
 
 Then we check if the next horizontal tile is walkable, meaning it does not have any environment tile rendered:
 ```js
+// will the NPC hit a wall ?
 levelMap[tempY][tempX2] != 0 || 
 levelMap[tempY][tempX1] != 0 || 
 ```
@@ -117,11 +119,12 @@ levelMap[tempY][tempX1] != 0 ||
 And the final check is with the game area boundaries, on the left and on the right:
 
 ```js
+// will the NPC leave the game area ?
 this.hitArea.x + this.hitArea.w >= canvas.width ||
 this.hitArea.x <= 0
 ```
 
-If we have a "hit" in any of those conditions, our NPC should turn to the other side and keep walking.
+If we have a `true` in any of these conditions, our NPC should turn to the other side and keep walking.
 
 As always, I have all the code commented with explanations of what is happening.
 
