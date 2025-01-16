@@ -10,7 +10,10 @@ subtitle: Hi, my name is Ricardo Castelhano.
 - A leader by passion *(still studying about it)*
 - A former College lecturer
 - A seasoned Keynote Speaker
-- Senior Engineering Manager at SKY building the streaming apps Peacock (30M pay subs in the US), SkyShowtime (22 European countries), Showmax (40 African countries)
+- ex-SEM @ Peacock (>30M pay subs in the US), SkyShowtime (22 European countries), Showmax (40 African countries)
+- Senior Vice President of Engineering @ Bedrock Streaming (M6 & RTL Group)
+- Country Manager @ Bedrock Streaming Portugal (M6 & RTL Group)
+
 
 
 ### My story
@@ -33,7 +36,7 @@ Looking back into the memory lane, it allowed me to land a full-time job as Flas
 
 Professionally, I kept going after more significant challenges. That approach took me from a frontend developer to a backend developer to a team leader, a Manager, and a CTO.
 
-More than two decades later, I'm managing and leading development teams in the big "Streaming Wars"
+More than two decades later, I'm managing a Tech Hub in the big "Streaming Wars".
 
 It has been quite a ride, to be honest.
 
